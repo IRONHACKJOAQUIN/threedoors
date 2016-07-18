@@ -1,0 +1,23 @@
+Como entiendo el ejercico. 
+
+Hola Raul
+
+El ejercicio lo he entendido y realizado de la siguiente manera:
+-
+He creado un repositorio en mi cuenta de github desde web 
+-
+en el terminal de mac he creado una carpeta 
+la he inicializado con git init "entiendo que esta escuchando todo lo que pasa en esta carpeta "
+-
+con el comando git add three_doors.txt   / añado el fichero que quiero guarcar 
+
+el comando git add.   ¿salvaguardaria todos los ficheros y subcarpetas?
+
+--
+con git commit -m "comentario "  preparo las subidas con los comentarios 
+--
+con git remote add origint "ruta http o ssh " vinculo con la cuenta githug 
+--
+con el comando  git  push origin master  subo los cambios. 
+
+ES UN POCO LO QUE HE ENTENDIDO ME FALTA ALGO DE LAS RAMAS , PERO NO LAS ENTIENDO MUY BIEN VOY A LEER. 
