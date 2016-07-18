@@ -19,7 +19,5 @@ con git commit -m "comentario "  preparo las subidas con los comentarios
 con git remote add origint "ruta http o ssh " vinculo con la cuenta githug 
 --
 con el comando  git  push origin master  subo los cambios. 
---
-el git status nos dice lo que hay pendiente de subir
 
 ES UN POCO LO QUE HE ENTENDIDO ME FALTA ALGO DE LAS RAMAS , PERO NO LAS ENTIENDO MUY BIEN VOY A LEER. 
